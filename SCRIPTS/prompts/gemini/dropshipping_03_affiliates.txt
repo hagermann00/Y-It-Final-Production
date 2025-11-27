@@ -1,0 +1,44 @@
+# TASK: Affiliate Opportunity Research for dropshipping
+
+Identify 50+ affiliate monetization opportunities.
+
+## CATEGORIES:
+
+### 1. Platform Affiliates
+Main platforms used for dropshipping
+
+### 2. Tool & Software Affiliates
+- Marketing tools
+- Design tools
+- Automation tools
+- Financial software
+
+### 3. Course Affiliates
+- Guru courses (document but DON'T promote)
+- Legitimate educational programs
+
+### 4. Service Provider Affiliates
+- Freelancer platforms
+- Professional services
+- Payment processors
+
+### 5. Alternative Opportunities
+"What Actually Works Instead" - better alternatives to dropshipping
+
+## FOR EACH OPPORTUNITY:
+
+- Commission structure
+- Cookie duration
+- Approval requirements
+- Ethical score (1-10)
+- Y-IT alignment: ✅ Promote / ⚠️ Neutral / ❌ Don't Promote
+- Average earnings per conversion
+
+## OUTPUT:
+
+1. **Markdown:** 05_AFFILIATE_OPPORTUNITIES.md
+2. **CSV:** AFFILIATE_CATALOG_TABLE.csv
+
+---
+
+BEGIN AFFILIATE RESEARCH. Provide complete document with 50+ opportunities.

@@ -1,0 +1,53 @@
+# TASK: Develop 11 Anonymized Case Studies for dropshipping
+
+Create 11 composite character case studies showing realistic failure scenarios.
+
+**Word Count:** 500-800 words per case study
+
+## 11 REQUIRED ARCHETYPES:
+
+1. The Optimistic Beginner - Undersaved, oversold
+2. The Technical Expert - Skill ≠ market fit
+3. The Multi-Product Gambler - Shotgun approach
+4. The Partnership Dissolution - Conflict + loss
+5. The College Entrepreneur - Time/capital mismatch
+6. The Exceptional Effort - Hard work, still failed
+7. The Smart Quitter - Recognized red flags early
+8. The Platform Victim - Algorithm/policy change
+9. The Niche Saturation - Arrived too late
+10. The Hidden Cost Victim - Fees destroyed margins
+11. The Compliance Casualty - Legal/regulatory
+
+## TEMPLATE (for each):
+
+### Character Profile
+- Name, age, background, motivation
+
+### Initial Plan
+- Start date, niche, budget, time commitment
+- Expected outcome and timeline
+
+### Month-by-Month Breakdown
+- 3-6 months of detailed progression
+- Revenue, costs, net loss per month
+- Emotional state evolution
+
+### Final Outcome
+- Total financial loss
+- Total time invested
+- Impact on life/relationships
+- Quitting trigger
+
+### Failure Mechanism Analysis
+- Primary cause
+- Contributing factors
+- Warning signs missed
+
+### What They Wish They Knew
+- 3 key insights they learned too late
+
+---
+
+**File Names:** dropshipping_CS_001_[Name].md through CS_011_[Name].md
+
+BEGIN CASE STUDY CREATION. Provide all 11 complete case studies.

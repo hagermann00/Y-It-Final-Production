@@ -1,0 +1,83 @@
+# TASK: Comprehensive Research Brief for Y-IT Nano-Book
+
+**Topic:** dropshipping
+
+**Context:**
+You are conducting market research for a 24-page satirical business reality-check book. The book exposes harsh truths behind guru-marketed business opportunities using data-driven analysis, failure statistics, and anonymized case studies.
+
+**Brand Voice:** "Y-IT" = satirical contrarian analyst ("Adult Swim meets Bloomberg Terminal")
+- Data-driven skepticism (mock gurus/systems, not readers)
+- Statistical honesty over motivational fluff
+- Respect reader intelligence
+
+---
+
+## DELIVERABLE: 01_RESEARCH_BRIEF.md
+
+**Word Count:** 2,500-4,500 words
+
+**Required Sections:**
+
+### 1. Executive Summary (200 words)
+- Top 5 key findings
+- Overall market attractiveness score (1-10)
+- Primary failure mechanism
+- Reality vs. guru promise gap
+
+### 2. Market Size & Growth
+**Required Data (with 3+ sources each):**
+- Global market size (USD, current year)
+- CAGR (Compound Annual Growth Rate)
+- Number of active participants
+- Market saturation level (1-10 rating)
+- Geographic distribution
+
+### 3. Participant Success Rate
+**Required Statistics:**
+- Failure rate within 4 months (%)
+- Failure rate within 1 year (%)
+- Success rate (earning $500+/month) (%)
+- Top 10% income threshold
+
+### 4. Cost Structure Breakdown
+**Three-Tier Analysis:**
+- Tier 1: Minimum Viable Entry ($X,XXX)
+- Tier 2: Guru "Recommended" Budget ($XX,XXX)
+- Tier 3: Hidden Costs First 6 Months ($XX,XXX+)
+
+### 5. Profitability Reality
+- Median income vs. mean income
+- Top 10% and top 1% thresholds
+- Survivorship bias explanation
+
+### 6. Timeline Analysis
+- Time to first sale
+- Time to profitability
+- Time to burnout (median)
+- Hours/week commitment
+
+### 7. 8 Key Failure Mechanisms (Ranked)
+Document 8 most common failure patterns with frequency percentages
+
+### 8. Guru vs. Reality Gap
+Compare guru promises to statistical reality
+
+### 9. Platform/Tool Dependency
+- Primary platforms
+- Fee structures
+- Algorithm/policy risks
+
+### 10. Strategic Assessment
+Final market attractiveness score (1-10) with breakdown
+
+---
+
+## RESEARCH REQUIREMENTS
+- Minimum 40 credible sources
+- 3+ sources per statistic
+- Target confidence: 90%+
+- Inline citations: [Source, Year]
+
+---
+
+BEGIN RESEARCH NOW. Provide complete 2,500+ word 01_RESEARCH_BRIEF.md document with all sections filled.
